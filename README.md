@@ -11,7 +11,7 @@ git push -u origin master
 
 ```
 git remote add [<options>] <name> <url>
-<name>是代表仓库
+git remote remove <name>
 ```
 
 ```
