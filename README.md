@@ -25,4 +25,11 @@ git push <远程主机名> <本地分支名>
 git push origin master
 ```
 
-### this is a test
+```
+git branch 查看本地分支
+git branch -r 查看远程分支
+git branch -a 查看所有分支
+git branch dev 创建dev分支
+git branch -d dev 删除dev分支
+git checkout master 切换分支
+```
